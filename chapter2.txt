@@ -1,1 +1,5 @@
 xxx chapter 2 sample
+
+git remote add github https://github.com/ilenhanako/writingbook.git
+
+i dont know whether my baby buddy doing something, but i can't stop my work
